@@ -1,13 +1,13 @@
 # kaggle_project
 
-These are a variety of projects to get familiar with: 
+These are a variety of projects that taught me how to: 
 
-- importing data
-- cleaning data
-- prepping data
-- using Python libraries to visualize data
-- ML tools like scikit-learn
-- testing and training data with ML algorithms
+- import data
+- clean data
+- prep data
+- use Python libraries to visualize data
+- use ML tools like scikit-learn
+- test and train data with ML algorithms
 
 Libraries used include: 
 
