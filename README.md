@@ -1,4 +1,4 @@
-# kaggle_project
+# Python Kaggle Projects
 
 These are a variety of projects that taught me how to: 
 
